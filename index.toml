@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".nojekyll"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/DistantHorizons.toml"
 hash = "4474b1e9c29f3d212a90058d377125277d753ff1d681dfc9f74800263a456002"
 
@@ -603,26 +607,6 @@ hash = "dce9b819f6078583fe575c1f465b0c1bcda44e64edb02d367728512adf65fafe"
 [[files]]
 file = "config/ars_nouveau/rewind.toml"
 hash = "927983e00266b0b3af2d78c1d5c10e791ed052e3cd8e525cc1bdb773845e921e"
-
-[[files]]
-file = "config/ars_nouveau/search_index/_l.cfe"
-hash = "6ddbb195183f27408bc2edb45b1e4045ad962dc809a752f8e16b14cdb95c9b82"
-
-[[files]]
-file = "config/ars_nouveau/search_index/_l.cfs"
-hash = "6903166c11060cb2ca22605058a1c185e9395aed3b7123ca6999c0c7815546a8"
-
-[[files]]
-file = "config/ars_nouveau/search_index/_l.si"
-hash = "536e29f50881138aaafa560f7fcb9985d891e6c6f466e3bb26a9263d14c8102f"
-
-[[files]]
-file = "config/ars_nouveau/search_index/segments_m"
-hash = "f1ee596a8d2e29ea10a9ccc9ed4a68d7a8e81be7ba92e359116f7e044b5557ca"
-
-[[files]]
-file = "config/ars_nouveau/search_index/write.lock"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/ars_nouveau/wololo.toml"
