@@ -1,0 +1,13 @@
+name = "Shelves"
+filename = "shelfmod-mc1.21.1-neoforge-3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f5c9461e2b0bbd04ab7958b50cc41ba88d8a92e1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7380535
+project-id = 1092024

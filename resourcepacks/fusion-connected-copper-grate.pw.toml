@@ -1,0 +1,13 @@
+name = "Fusion connected copper grate"
+filename = "connected_copper_grate.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eab1b5848f4e18bd66606933715d77175bd4032e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7530727
+project-id = 1445264

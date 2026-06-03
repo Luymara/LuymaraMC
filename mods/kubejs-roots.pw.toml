@@ -1,0 +1,13 @@
+name = "KubeJS Roots"
+filename = "KubeJS Roots-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a934e18a59c604953216fb9fc2b8d48a2e3f6b43"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5799367
+project-id = 1118720

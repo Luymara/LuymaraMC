@@ -1,0 +1,10 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"silentgear:sinew"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tacz:modern_kinetic_gun","components":{"minecraft:custom_data":{"GunId":"tacz:fn_evolys","GunFireMode":"AUTO","GunCurrentAmmoCount":75,"HasBulletInBarrel":1}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:chiseled_red_sandstone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tacz:modern_kinetic_gun","components":{"minecraft:custom_data":{"GunId":"tacz:cz75","GunFireMode":"AUTO","GunCurrentAmmoCount":16,"HasBulletInBarrel":1}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tacz:modern_kinetic_gun","components":{"minecraft:custom_data":{"GunId":"elitex:colt_m1911x1","GunFireMode":"SEMI","GunCurrentAmmoCount":7,"HasBulletInBarrel":1},"minecraft:custom_name":"{\"italic\":false,\"translate\":\"elitex.gun.colt_m1911x1.name\"}"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mts:mtsofficialpack.engineallison250"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mts:mtsofficialpack.fuelpump"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

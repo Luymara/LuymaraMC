@@ -1,0 +1,13 @@
+name = "Applied Generators"
+filename = "applied-generators-0.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aa68ecf0b187461b2fac8534fef10714bcda0895"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7767773
+project-id = 1320369
